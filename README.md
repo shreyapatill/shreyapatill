@@ -5,25 +5,25 @@
 
 - 🔭 I’m currently working on [project name](priject link)
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+<!-- - 🌱 I’m currently learning **Frameworks, courses etc.** -->
 
-- 👯 I’m looking to collaborate on [project name](priject link)
+<!-- - 👯 I’m looking to collaborate on [project name](priject link) -->
 
-- 🤝 I’m looking for help with [project name](priject link)
+<!-- - 🤝 I’m looking for help with [project name](priject link) -->
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+<!-- - 👨‍💻 All of my projects are available at [portfolio link](portfolio link) -->
 
-- 📝 I regularly write articles on [blog link](blog link)
+<!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
-- 💬 Ask me about **react, vue and gsap**
+<!-- - 💬 Ask me about **react, vue and gsap** -->
 
-- 📫 How to reach me **example@gmail.com**
+<!-- - 📫 How to reach me **example@gmail.com** -->
 
-- 📄 Know about my experiences [resume link](resume link)
+<!-- - 📄 Know about my experiences [resume link](resume link) -->
 
-- ⚡ Fun fact **I think I am funny**
+<!-- - ⚡ Fun fact **I think I am funny** -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
