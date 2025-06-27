@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyapatill&label=Profile%20views&color=0e75b6&style=flat" alt="shreyapatill" /> </p>
 
-- 🔭 I’m currently working on [my personal site](https://shreyapatill.github.io)!
+- 🔭 I’m currently working on [x](x)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
