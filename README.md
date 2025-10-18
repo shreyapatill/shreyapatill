@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheryl</h1>
+<h1 align="center">Hi 👋, I'm Shreya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyapatill&label=Profile%20views&color=0e75b6&style=flat" alt="shreyapatill" /> </p>
 
