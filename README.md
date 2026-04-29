@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyapatill&label=Profile%20views&color=0e75b6&style=flat" alt="shreyapatill" />
+  <img src="https://komarev.com/ghpvc/?username=shreyapatill&label=Monthly%20Views&color=ff69b4&style=flat&month=2026-04" />
 </p>
 
 - 🔭 I’m currently working on [x](x)!
