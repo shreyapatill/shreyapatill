@@ -42,12 +42,29 @@
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a> 
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a> 
 
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
+</a>
 </p>
 
 <p align="center">
